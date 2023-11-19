@@ -1,0 +1,20 @@
+Srinithi & Mikhayla
+
+Hours met:
+Nov 3 - 2 hrs
+Nov 8 - 2 hrs
+Nov 17 - 3 hrs
+
+Implemented functions:
+
+
+Mikhayla:
+freeTrieMemory
+printTrieContents
+
+Srinithi:
+indexPage
+
+Both:
+addWordOccurrence
+main function 
