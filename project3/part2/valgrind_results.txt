@@ -1,0 +1,80 @@
+==2748934== Memcheck, a memory error detector
+==2748934== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2748934== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2748934== Command: ./webSearch ./webSearchSol/urlFiles/train1.txt 10 10
+==2748934== 
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+==2748934== 
+==2748934== HEAP SUMMARY:
+==2748934==     in use at exit: 0 bytes in 0 blocks
+==2748934==   total heap usage: 400 allocs, 400 frees, 3,182,328 bytes allocated
+==2748934== 
+==2748934== All heap blocks were freed -- no leaks are possible
+==2748934== 
+==2748934== For lists of detected and suppressed errors, rerun with: -s
+==2748934== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2749157== Memcheck, a memory error detector
+==2749157== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2749157== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2749157== Command: ./webSearch ./webSearchSol/urlFiles/train2.txt 10 10
+==2749157== 
+Please enter a query containing only lower-case letters.
+==2749157== 
+==2749157== HEAP SUMMARY:
+==2749157==     in use at exit: 0 bytes in 0 blocks
+==2749157==   total heap usage: 360 allocs, 360 frees, 3,165,560 bytes allocated
+==2749157== 
+==2749157== All heap blocks were freed -- no leaks are possible
+==2749157== 
+==2749157== For lists of detected and suppressed errors, rerun with: -s
+==2749157== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2749336== Memcheck, a memory error detector
+==2749336== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2749336== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2749336== Command: ./webSearch ./webSearchSol/urlFiles/test0.txt 100 1427195
+==2749336== 
+==2749336== 
+==2749336== HEAP SUMMARY:
+==2749336==     in use at exit: 0 bytes in 0 blocks
+==2749336==   total heap usage: 501 allocs, 501 frees, 3,540,672 bytes allocated
+==2749336== 
+==2749336== All heap blocks were freed -- no leaks are possible
+==2749336== 
+==2749336== For lists of detected and suppressed errors, rerun with: -s
+==2749336== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2749613== Memcheck, a memory error detector
+==2749613== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2749613== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2749613== Command: ./webSearch ./webSearchSol/urlFiles/test1.txt 100 1427195
+==2749613== 
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+==2749613== 
+==2749613== HEAP SUMMARY:
+==2749613==     in use at exit: 0 bytes in 0 blocks
+==2749613==   total heap usage: 3,096 allocs, 3,096 frees, 3,786,232 bytes allocated
+==2749613== 
+==2749613== All heap blocks were freed -- no leaks are possible
+==2749613== 
+==2749613== For lists of detected and suppressed errors, rerun with: -s
+==2749613== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2749788== Memcheck, a memory error detector
+==2749788== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2749788== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2749788== Command: ./webSearch ./webSearchSol/urlFiles/test2.txt 100 1427195
+==2749788== 
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+Please enter a query containing only lower-case letters.
+==2749788== 
+==2749788== HEAP SUMMARY:
+==2749788==     in use at exit: 0 bytes in 0 blocks
+==2749788==   total heap usage: 16,423 allocs, 16,423 frees, 6,154,696 bytes allocated
+==2749788== 
+==2749788== All heap blocks were freed -- no leaks are possible
+==2749788== 
+==2749788== For lists of detected and suppressed errors, rerun with: -s
+==2749788== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
